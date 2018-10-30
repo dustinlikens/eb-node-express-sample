@@ -7,7 +7,6 @@
     "aws-sdk": "latest",
     "express": "latest",
     "body-parser": "latest",
-    "request": "latest"
   },
   "scripts": {
     "start": "node app.js"
